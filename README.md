@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DraSonDS
-- 👀 I’m interested in prpgramming on C#
+- 👀 I’m interested in programming on C#
 - 🌱 I’m currently learning C#
 - 📫 You can reach me on draard.son@gmail.com
 
